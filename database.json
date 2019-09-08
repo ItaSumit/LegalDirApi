@@ -1,0 +1,15 @@
+{
+  "defaultEnv": {
+    "ENV": "NODE_ENV"
+  },
+  "development": {
+    "driver": "pg",
+    "user": "sumitagrawal",
+    "password": "1234",
+    "host": "localhost",
+    "port": 5432,
+    "schema": "public",
+    "database": "LegalDir"
+  },
+  "sql-file": true
+}

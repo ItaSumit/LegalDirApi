@@ -1,0 +1,10 @@
+{
+  "name": "LDDs",
+  "connector": "postgresql",
+  "url": "",
+  "host": "localhost",
+  "port": 5432,
+  "user": "sumitagrawal",
+  "password": "1234",
+  "database": "LegalDir"
+}
